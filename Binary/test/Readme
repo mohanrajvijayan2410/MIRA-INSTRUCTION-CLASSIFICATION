@@ -4,16 +4,20 @@ This project is used to check the classification of instructions utilizing a sim
 This project is an flask application.
 
 
+
+Use this command to install the neccessary modules
+
+        pip install torch transformers flask gdown
+
+To download the Bert Model       
+        1. Run "get_modal.py" file or type "python get_modal.py"
+This will store the model in the root directory
+
 The project consists of, 
 
         1. "new model" folder: Contains the fine tuned BERT model that is trained for classification of instructions under 7 categories. 
         2. "templates" folder: Contains the html file for the frontend, "check.html".
         3. "app.py" : This program is the flask application.
-
-
-Use this command to install the neccessary modules
-
-        pip install torch transformers flask
 
 To run the flask application,
 
