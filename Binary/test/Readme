@@ -10,7 +10,7 @@ Use this command to install the neccessary modules
         pip install torch transformers flask gdown
 
 To download the Bert Model       
-        1. Run "get_modal.py" file or type "python get_modal.py"
+        1. Run "get_model.py" file or type "python get_model.py"
 This will store the model in the root directory
 
 The project consists of, 
