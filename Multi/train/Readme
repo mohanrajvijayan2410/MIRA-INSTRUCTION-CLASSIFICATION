@@ -1,0 +1,22 @@
+
+Requirements: Before running this code, ensure that the following libraries are installed:
+        transformers
+        torch
+        pandas
+        scikit-learn
+        matplotlib
+
+To install these dependencies, you can use the following command:
+        pip install transformers torch pandas scikit-learn matplotlib
+
+Dataset
+        The dataset used is WIKIHOW.csv. It must contain at least two columns:
+
+        Sentences: The text data to classify.
+        Type: Whether instruction or not.
+        Ensure that the CSV file is correctly encoded (latin-1 is used in the script).
+
+Running the Program
+        1. Ensure your WIKIHOW.csv file is in the same directory as the script.
+        2. Run the Python script.
+            python multi.py

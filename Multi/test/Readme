@@ -1,0 +1,33 @@
+
+This project is used to check the classification of instructions utilizing a simple interface. 
+
+This project is an flask application.
+
+
+The project consists of, 
+
+        1. "new model" folder: Contains the fine tuned BERT model that is trained for classification of instructions under 7 categories. 
+        2. "templates" folder: Contains the html file for the frontend, "check.html".
+        3. "app.py" : This program is the flask application.
+
+
+Use this command to install the neccessary modules
+
+        pip install torch transformers flask
+
+To run the flask application,
+
+        1. Run the program in Visual Studio code inside the Test directory.
+        2. Open command promt,
+                change to the working directory, Test (eg. "C:\Projects\Test" or "E:\Test").
+                Run the python program using "python app.py" command or "flask run" command.
+
+A flask server is created on the address: "http://127.0.0.1:5000" , you can open this address on a browser to access the frontend
+         
+Overview: 
+        This flask application transfers the data from the frontend and passes it to the model
+        The model then predicts the classification and sends it to the flask application.
+        The flask application then transfers it to the frontend and display it in the format of table.
+
+
+Note: Make sure no other flask application is running before executing this program
