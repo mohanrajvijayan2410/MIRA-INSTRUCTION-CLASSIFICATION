@@ -1,0 +1,447 @@
+
+add a contact in the contacts app.
+add a label to a message in the gmail app.
+add all the languages in chrome.
+add an account.
+add or remove categories in the gmail app.
+add the wi-fi network.
+add user.
+add vpn.
+all mails in gmail.
+allow cookies in the chrome app.
+allow installing unknown apps.
+allow notifications from all sites in the chrome app.
+always show images in the gmail app.
+backup photos in google photos.
+buy a photo book in the google photos.
+buy more storage in the google photos.
+change a site's camera permissions in the chrome app.
+change alarm snooze length.
+change date and time settings.
+change keyboard looks.
+change keypress sound.
+change mobile network settings.
+change notification settings in the gmail app.
+change notifications settings.
+change password of google account.
+change screen display setting.
+change settings for all sites in the chrome app.
+change sync settings in the gmail app.
+change the clock display to analog.
+change the clock display to digital.
+change the clock style.
+change the upload size in the google photos.
+change timer sound.
+change your default location settings in chrome.
+check cookies, media licenses and site data.
+check android version.
+check battery use.
+check certificates.
+check data usage.
+check for android updates.
+check google app version.
+check mobile data.
+check out phone information.
+check saved network.
+check storage.
+check sync settings in chrome.
+check the backup settings in the google photos.
+check the test mail in the gmail app.
+check turn on wi-fi automatically.
+choose priority inbox.
+choose privacy settings in the chrome app.
+choose settings app icon, under settings choose network & internet then select data usage.
+choose time selector.
+choose word2act.test@gmail.com.
+chrome privacy.
+clear all cookies in the chrome app.
+clear history in the chrome app.
+click settings, then click security & location then click location under privacy then turn use location option off.
+click about phone or about tablet or about device.
+click about.
+click advanced then click vpn.
+click back up & sync and finally, click on buy more storage button.
+click backup & sync and then upload size.
+click checkbox sync gmail.
+click choose all time.
+click chrome app.
+click clear browsing data.
+click clock app at the top right corner and tap icon stopwatch and click red button start play in the top control menu click the battery saver.
+click clock app then tap more icon at the top right corner then click settings, and then under clock settings click style button.
+click data & personalization at the top.
+click data usage as the third option in the menu then click mobile data.
+click device information and click manage activity.
+click encryption & credentials and under credential storage, tap clear credentials and finally click ok.
+click fakefirst fakelast.
+click gestures
+click google account.
+click google photos app.
+click google.
+click group similar faces.
+click help & feedback.
+click history.
+click import.
+click languages & input.
+click location.
+click more icon at the top right corner and click battery usage.
+click more icon at the top right corner and click new album.
+click notifications and click on lock screen option then select don't show notifications at all.
+click on advanced option and then click the scanning option.
+click on fakefirst fakelast, then click sync, then tap encryption and finally, click encrypt synced data with your own sync passphrase.
+click on gmail app.
+click on google chrome, then click on the 3 dots in the right hand corner of the google chrome screen then click on bookmarks.
+click on google photo icon.
+click on google photos app, tap the search bar on top of screen.
+click on google photos at the bottom, tap assistant.
+click on google and click the menu option in the upper left corner, and click send feedback.
+click on 'manage labels' and then click 'important' at last.
+click on notifications then click suggested sharing.
+click on settings, go down to system and click, then click on advanced then reset options.
+click on 'sync messages', and finally click all.
+click on the gmail icon, open the test mail.
+click on the settings app icon and next click on system section and click on the languages & input section.
+click on the settings icon, then click on network & internet then click on wi-fi and then on wi-fi preferences then click connect to open networks
+click on the settings option, click on the back up & sync settings at the very top.
+click on the top left menu icon button, go to 'settings', choose word2act.test@gmail.com. in notifications.
+click photo books.
+click physical keyboard and finally turn on show virtual keyboard.
+click pop-ups.
+click screen saver at the bottom and then when to start then finally select never.
+click see all apps.
+click sent.
+click settings and  click style then choose digital.
+click settings and choose delete all location history at the bottom.
+click settings and tap languages and turn off offer to translate pages in other languages.
+click settings and tap site settings and tap javascript and then click turn the setting off.
+click settings and then tap site settings and click media and click protected content. select blocked.
+click settings in advanced, click the languages button and click add language.
+click settings under advanced, tap privacy.
+click settings, and then site settings.
+click settings and tap site settings.
+click show system.
+click start a book.
+click sync and turn off sync everything.
+click the assistant on the bottom of the screen then click animation icon.
+click the gmail icon in inbox click mail test mail and click more icon at the top right corner then select report spam.
+click the search bar at the top.
+click the settings app button, and then click network & internet.
+click the settings app.
+click to open site settings.
+click treat as metered.
+click wi-fi at the end of the list, tap add network.
+click wi-fi if needed, turn on wi-fi and at the bottom, tap saved networks.
+click wi-fi.
+create a live album in the google photos.
+create a new album in the google photos.
+create a passphrase in the chrome app.
+create a photo book in the google photos.
+delete a single message in the gmail app.
+delete browsing data in the chrome app.
+delete information to a site in the chrome app.
+delete location history.
+delete the emails in spam in the gmail app.
+dim the clock.
+empty trash in google photos.
+empty trash in the gmail app.
+finally, tap on snooze length.
+finally, click recent tabs.
+finaly, click smart lock.
+find photos in the google photos.
+find snoozed emails in the gmail app.
+find which apps use the phone's location.
+first click on the the google photos then click on the more icon in the top left.
+first open your gmail app.
+firstly, tap the settings button then tap the network and internet button then, tap the data usage button, and then tap the data saver button and lastly, press unrestricted data.
+free up space in the google photos.
+go to multiple users and click add user, and finally click ok.
+go to phone settings, then tap security and location and then tap on location.
+go to settings app then click system and then click the advanced.
+group similar faces in google photos.
+have battery saver turn on automatically.
+import contacts.
+In launcher, go to contacts and tap open menu icon at the top left corner then click settings then click import.
+In my device's apps click on the clock app then click on 3 dot top-right menu then select the settings option and after that the style one and chose the analog option.
+In the app drawer, open settings app.
+install a certificate.
+keep or delete app preview messages automatically remove messages after 7 days.
+limit wifi data usage.
+make a movie in the google photos.
+make animations in the google photos.
+make emails show in primary in the gmail app.
+manage activity control.
+manage activity.
+manage device identity and protected content in the chrome app.
+manage device information.
+mark emails as spam in the gmail app.
+move a message to another label in the gmail app.
+move an email to a new category in the gmail app.
+next click on settings.
+on my device main screen, tap clock in the top right then in the top right click more icon at the top right corner then click on settings then under timers click the word timer sound.
+on the next screen choose the reset wi-fi, mobile & bluetooth then click on reset settings at the bottom of the page.
+on the phone tap settings app and tap the security & location and then click advanced.
+once you get in tap the preferences option and tap on sound on keypress.
+once you get inside tap the virtual keyboard and select the gboard option.
+open a bookmark in the chrome app.
+open a new tab in the chrome app.
+open chrome and click more icon at the top right corner.
+open chrome app, then tap the more icon at the top right corner, click settings, and then click site settings, and finally click camera.
+open chrome, go to more options on the top right corner, then tap on history and select clear browsing data.
+open clock app and tap more icon at the top right corner.
+open clock app at the top right corner, tap the more icon, then tap on settings on the menu.
+open clock app on device and tap alarm at the top.
+open contacts app.
+open device settings app and click apps & notifications, then select special app access and finally select install unknown apps.
+open google photos and tap albums at the bottom.
+open google photos and tap menu icon at the top left corner and click trash.
+open google photos app, and then tap sharing.
+open google photos, tap menu icon at the top left corner and click free up space,vx.
+open google photos, tap the menu icon then open my device folders.
+open google photos.
+open in the chrome app and touch the more icon in the upper right corner.
+open my device clock app.
+open my device's settings app and tap google and click more icon at the top right corner and click usage & diagnostics and turn on usage & diagnostics.
+open my device's settings app and tap on battery.
+open my device's settings app and tap system at the bottom and then advanced and then system update.
+open my device's settings app, tap security & location and then location and then advanced and then scanning and turn on wi-fi scanning open settings app.
+open my device's settings app.
+open my device's the google photos then tap sharing and tap more icon at the top right corner and then tap skipped suggestions.
+open screen lock.
+open settings and click apps & notifications and click notifications and turn allow notification dots on.
+open settings and tap security & location, tap advanced and tap encryption & credentials. under credential storage, tap install from sd card.
+open settings app and click apps & notifications.
+open settings app and tap apps & notifications and click notifications.
+open settings app and tap apps & notifications and then click special app access and click picture-in-picture.
+open settings app and tap google and click app preview messages and click manage storage and turn on remove messages after 7 days.
+open settings app and tap google and click app preview messages and turn on app preview messages.
+open settings app and tap network & internet and tap mobile network and then turn on turn data roaming.
+open settings app and then tap display after that, click advanced after that click on sleep.
+open settings app at the bottom, tap system and click on the last option labeled advanced, from there click on system update.
+open settings app in launcher.
+open settings app then click network & internet.
+open settings app, and tap system then click date & time and turn off automatic date & time and  turn off automatic time zone.
+open settings app, then tap apps & notifications and tap notifications then tap on lock screen, and finally tap show all notification content.
+open settings app.
+open settings app, tab system and then about emulated device and click emergency information
+open settings, tap the network & internet button and then tap the advanced button and tap private dns.
+open the chrome app and click on the more icon in the upper right corner, then tap settings.
+open the chrome app and tap more icon at the top right corner and click downloads.
+open the chrome app and tap more icon at the top right corner and click settings, under advanced, tap privacy.
+open the chrome app and tap more icon at the top right corner.
+open the chrome app and tap the more icon at the top right corner and then tap bookmarks.
+open the chrome app and then tap the top right most settings button and click on settings button on top right most of the google page and then tap site settings then tap notifications, turn the setting on finally.
+open the chrome app in chrome tap more icon at the top right corner.
+open the chrome app on your device and tap more icon at the top right corner.
+open the clock app and then open timer to set alart.
+open the contacts app.
+open the contacts at the bottom right, tap add .
+open the gmail app and tap menu icon at the top left corner then click spam.
+open the gmail app and tap menu icon at the top left corner, tap trash.
+open the gmail app and tap menu icon in the top left and tap settings, click word2act.test@gmail.com. under data usage, tap images.
+open the gmail app and tap on the message test mail at the top right coner click the more icon.
+open the gmail app and tap the menu icon at the top left corner, and then tap on starred.
+open the gmail app in menu then tap the test mail in the gmail app then click the reply button to reply the email to message
+open the gmail app in the top left, tap menu icon and click snoozed.
+open the gmail app in the top left, tap menu icon.
+open the gmail app on the home screen and open the first e-mail with the subject test mail.
+open the gmail app, click on the menu icon and then select all mail.
+open the gmail app and tap menu icon at the top left corner.
+open the google app in the search bar, tap speak.
+open the google app.
+open the google chrome app and tap more icon at the top right corner.
+open the google chrome app.
+open the google drive app.
+open the google photos and tap menu icon at the top left corner and click settings and click group similar faces.
+open the google photos app and tap menu icon at the top left corner and click trash.
+open the google photos app and tap menu icon at the top left corner and select settings and click back up & sync.
+open the google photos app, then click on the menu icon at the top left corner.
+open the google photos app.
+open the google photos, tap menu icon at the top left corner and click photo books.
+open the google photos.
+open the google photos and tap menu icon at the top left corner and click settings and  turn on google drive and  tap sync.
+open the settings app and click google then b click on google account at the top and tap security finally.
+open the settings app and tap google and then google account then slide to the data & personalization tab and then tap location history and tap location history.
+open the settings app and tap network & internet and then tap mobile network.
+open the settings app and tap on battery and then tap on battery saver and after that tap the switch to turn on automatically the battery saver.
+open the settings app on the device then click on the security & location option in that click on the location option under privacy.
+open the settings app on your phone.
+open the settings app and tap system.
+open the settings, and click on the accessibility, finally click on the text-to-speech output.
+open unrestricted data settings.
+open up google photos, and click sharing then the more icon at the top right corner in the search bar then click start new share.
+open up the device's settings app and tap google and then tap google account. at the top, tap data & personalization at the bottom, tap manage timeline and your device will open google maps google maps and tap more icon at the top right corner.
+open wifi settings.
+open your device's settings app and tap network & internet, then you need click wi-fi.
+open your device's settings app and then click on storage.
+press the advanced settings, then click on the sleep button.
+press the settings button.
+read, delete, or share a saved page in the chrome app.
+remove a face group from the search page in the google photos.
+remove access early in the gmail app.
+remove custom certificates.
+remove spam from my inbox in the gmail app.
+reply to messages in the gmail app.
+report a problem in the chrome app.
+reset all network settings.
+reset app preferences.
+restore photos & videos in the google photos.
+restrict app battery usage.
+schedule emails to send in the gmail app.
+search for starred emails in the gmail app.
+see creations saved in the google photos.
+see sites visited before in the chrome app.
+see skipped suggestions and delete or review them in the google photos.
+see tabs open on other devices in the chrome app.
+select data & personalization at top under activity and timeline tap my activity.
+select default inbox.
+select settings and click the fakefirst fakelast and click sync then, turn off sync everything.
+select word2act.test@gmail.com.
+send a google drive attachment in the gmail app.
+send feedback for google app.
+send feedback in gmail.
+set alarm.
+set autofill in chrome.
+set the timer.
+set to automatically connect to open network.
+set upload size in google photos.
+share photos in the google photos.
+show emergency info.
+show notifications on the lock screen.
+show vritual keyboard.
+snooze an email in the gmail app.
+speak in google app.
+start settings app and tap network & internet and tap data usage and tap data saver and turn on data saver.
+start settings app.
+stop sharing an album in the google photos.
+stop showing notifications on the lock screen.
+sync gmail.
+sync in chrome.
+sync photos and videos to google drive.
+sync photos and videos to google photos.
+system apps
+tap settings on bottom then tap back up & sync at top.
+tap accounts, and then click add account.
+tap add at the top right.
+tap advanced and tap click metered.
+tap advanced.
+tap app info.
+tap apps & notifications and then click emergency alerts.
+tap apps & notifications.
+tap compose and then tap attach and tap insert from drive.
+tap compose mail button at the bottom right and then tap the more icon at the top right corner.
+tap cookies.
+tap display and then advanced at the bottom.
+tap enable cookies.
+tap encryption & credentials under credential storage tap trusted credentials finally.
+tap gmail app, then click the test mail in the inbox, and then tap delete.
+tap google location accuracy.
+tap improve location accuracy.
+tap inbox categories.
+tap inbox type.
+tap location.
+tap menu icon at the top left corner.
+tap menu icon in the top left corner in the bottom then tap settings.
+tap menu icon in the top left.
+tap more button at the top right corner.
+tap more icon at the top right corner and click show full device usage.
+tap more icon at the top right corner and tap change labels
+tap more icon at the top right corner.
+tap more icon at the top right then select settings.
+tap network & internet and then tap airplane mode on.
+tap network & internet, then tap wi-fi, then wi-fi preferences.
+tap network & internet.
+tap on settings, and tap on google, then tap on google account at the top tap on the data personalization, finally tap on manage your activity controls.
+tap on autofill and payments, and then on addresses.
+tap on change date and time then check use 24-hour format in launcher open settings.
+tap on device's settings app.
+tap on gmail icon and open email test mail and open more icon at the top right corner and click move to.
+tap on google chrome icon and tap on the more icon at the top right corner.
+tap on google chrome icon on home screen after chrome opens, tap the hamburger menu in the upper right corner and when the menu opens tap on settings aftet next menu opens tap on site settings.
+tap on menu icon at the top left corner.
+tap on screen pinning and then switch screen pinning on.
+tap on settings and then privacy and then usage and crash reports and check the setting box.
+tap on the more icon in the upper right corner, and then tap on settings.
+tap on the photo icon.
+tap on the settings app and then the battery button.
+tap privacy.
+tap reset app preferences.
+tap security & location and then advanced.
+tap security & location.
+tap security or security & location and then click screen lock.
+tap see all apps.
+tap settings app and tap security & location and then tap advanced.
+tap settings then select word2act.test@gmail.com, and tap inbox notifications.
+tap site settings.
+tap system and tap the languages and input to open it.
+tap system.
+tap test mail.
+tap the add icon.
+tap the chrome app and  tap more icon at the top right corner and tap the new tab option.
+tap the chrome app on the home screen.
+tap the display button.
+tap the google chrome, then the more icon on top right, then tap on settings, then site settings then click media and then click protected content and tap on the more icon in top right and then tap on the reset device credentials button.
+tap the google photos icon then at then bottom tap the albums icon.
+tap the menu icon at the top left corner.
+tap the menu icon on the top left and then click settings.
+tap the photos icon and then tap assistant and then tap movie.
+tap the settings and click on system and then click advanced and click on multiple users.
+tap the three-dotted option at the top-right corner and tap the option report spam from the drop-down menu.
+tap the turn on bluetooth scanning option.
+tap the wi-fi network you're connected to.
+tap theme to configure it.
+tap to open settings app.
+tap top right conner three dot.
+tap vacation responder at the top, turn the vacation responder switch on.
+tap virtual keyboard and then select gboard.
+tap wi-fi preferences at the bottom.
+tap word2act.test@gmail.com next to smart reply, uncheck the box.
+tap word2act.test@gmail.com. in the data usage section, tap days of mail to sync.
+tap your device's settings app.
+then tap on the 3 dots on the top right corner and then tap on screen saver.
+touch the gmail app icon and touch the test mail and touch the star in the upper right corner.
+touch the google photos app on your phone, open google photos at the top, tap menu icon at the top left corner and tap settings and click backup & sync.
+turn battery saver on.
+turn data saver mode on.
+turn device information on.
+turn face grouping off.
+turn face grouping on in the google photos.
+turn notification dots on.
+turn off data roaming.
+turn off location.
+turn off notifications in the google photos.
+turn off picture-in-picture.
+turn off screen saver.
+turn off smart reply in the gmail app.
+turn off smart reply.
+turn off translation in the chrome app.
+turn on airplane mode.
+turn on app preview messages.
+turn on automatic unlock.
+turn on bluetooth scan.
+turn on data saver in the chrome app.
+turn on data saver.
+turn on gesture.
+turn on improve location accuracy.
+turn on javascript in the chrome app.
+turn on location history.
+turn on notifications settings in the gmail app.
+turn on priority inbox in the gmail app.
+turn on private dns.
+turn on screen pinning.
+turn on sleep mode.
+turn on talkback.
+turn on the 24-hour format for clock.
+turn on usage & diagnostics.
+turn on wifi automatically.
+turn on wifi scan.
+turn pop-ups and redirects on tap on the photo icon.
+turn pop-ups and redirects on.
+turn pop-ups on in chrome.
+turn smart compose on in the gmail app.
+turn the setting on in app drawer tap on the clock app.
+turn vacation reply on in the gmail app.
+under activity controls click device information.
+under advanced tap data saver.
+update user.
+use the stopwatch.
+visit the assistant section in the google photos.
+while on the home screen, tap on the gmail app icon and then click test mail, and then tap more icon at the top right corner and click on snooze.
