@@ -32,7 +32,7 @@ Two models were trained:
 ### Accuracy Table
 |                | WikiHow | **TNSB**| **NCERT** | **Pixel_help** |
 |----------------|---------|---------|-----------|----------------|
-| **Binary**     |   99%   |    99%  |      98%  |        100%    |
+| **Binary**     |   99%   |   100%  |     100%  |        100%    |
 | **Multi-Class**|   92%   |    99%  |      98%  |        98%     |
 
 ### Training Graphs
