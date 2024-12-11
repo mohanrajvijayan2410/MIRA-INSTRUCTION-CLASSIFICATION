@@ -44,10 +44,11 @@ Two models were trained:
 
 #### **Binary Classification**
 - **TNSB Data**: The binary model achieved an accuracy of 99.8% on practical, step-based instructions.
- ![tnsb multti](https://github.com/user-attachments/assets/ad88fabb-fbd1-4ff2-820d-17e24224c018)
+![pixel binary](https://github.com/user-attachments/assets/068a4858-950b-48a4-a68a-0b2d21918a1e)
 
 - **NCERT Data**: The binary model scored 99.2% on academic-style instructions.
- ![tnsb multti](https://github.com/user-attachments/assets/ad88fabb-fbd1-4ff2-820d-17e24224c018)
+![pixel binary](https://github.com/user-attachments/assets/068a4858-950b-48a4-a68a-0b2d21918a1e)
+
 
 - **Pixel_help Data**: The binary model performed perfectly, achieving 100% accuracy for technical instructions.
 ![pixel binary](https://github.com/user-attachments/assets/068a4858-950b-48a4-a68a-0b2d21918a1e)
