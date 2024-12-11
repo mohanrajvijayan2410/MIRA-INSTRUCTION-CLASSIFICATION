@@ -45,27 +45,21 @@ Two models were trained:
 #### **Binary Classification**
 - **TNSB Data**: The binary model achieved an accuracy of 70.8% on practical, step-based instructions.
 ![tnsb binary](https://github.com/user-attachments/assets/c59c7663-4ca9-4b12-892d-14d17d2c4da1)
-![tnsb binary confusion](https://github.com/user-attachments/assets/c8e447ea-61df-473b-8ba5-6fd562aa1ec6)
 
 - **NCERT Data**: The binary model scored 68.2% on academic-style instructions.
-  ![ncert binary](https://github.com/user-attachments/assets/aa9a402d-8c5e-46d9-a4b4-9ba85e8aad3e)
-![ncert binary confusion](https://github.com/user-attachments/assets/fa2ff1e3-c13f-4f12-90c2-7a0d3aae74be)
+![tnsb binary](https://github.com/user-attachments/assets/c59c7663-4ca9-4b12-892d-14d17d2c4da1)
 
 - **Pixel_help Data**: The binary model performed perfectly, achieving 100% accuracy for technical instructions.
 ![pixel binary](https://github.com/user-attachments/assets/068a4858-950b-48a4-a68a-0b2d21918a1e)
-![pixel binary confusion](https://github.com/user-attachments/assets/35f618e3-1e49-4ce2-b8c6-556895cb7443)
 
 #### **Multi-Class Classification**
 - **TNSB Data**: The multi-class model achieved 99% accuracy in classifying practical instructions.
   ![tnsb multti](https://github.com/user-attachments/assets/ad88fabb-fbd1-4ff2-820d-17e24224c018)
-![tnsb multti confusion](https://github.com/user-attachments/assets/c6632122-e98e-4977-bab7-f77698fff24b)
 
-- **NCERT Data**: It achieved 69% accuracy for academic-style instructions.
-![ncert multi](https://github.com/user-attachments/assets/0e0980b1-057f-4afb-951d-cbbf65e873a9)
-![ncert multi confusion](https://github.com/user-attachments/assets/cbc6a1d8-e8c6-48d6-93da-81450cc36e0d)
+- **NCERT Data**: It achieved 98% accuracy for academic-style instructions.
+![pixel multi](https://github.com/user-attachments/assets/ae8a4e39-2e15-4c07-80d3-da312ffbf868)
 
 - **Pixel_help Data**: The model performed excellently with 98% accuracy in technical instruction categorization.
-![pixel multi confusion](https://github.com/user-attachments/assets/66f1686f-39b8-4729-a4ca-11296a8076a8)
 ![pixel multi](https://github.com/user-attachments/assets/ae8a4e39-2e15-4c07-80d3-da312ffbf868)
 
 
