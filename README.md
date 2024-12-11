@@ -40,13 +40,13 @@ Two models were trained:
 ![multi graph](https://github.com/user-attachments/assets/95e362c0-b092-4373-b417-027eb974be8f)
 
 
-### Classification Reports and Confusion Matrices
+### Classification Reports\
 
 #### **Binary Classification**
-- **TNSB Data**: The binary model achieved an accuracy of 70.8% on practical, step-based instructions.
+- **TNSB Data**: The binary model achieved an accuracy of 99.8% on practical, step-based instructions.
 ![tnsb binary](https://github.com/user-attachments/assets/c59c7663-4ca9-4b12-892d-14d17d2c4da1)
 
-- **NCERT Data**: The binary model scored 68.2% on academic-style instructions.
+- **NCERT Data**: The binary model scored 99.2% on academic-style instructions.
 ![tnsb binary](https://github.com/user-attachments/assets/c59c7663-4ca9-4b12-892d-14d17d2c4da1)
 
 - **Pixel_help Data**: The binary model performed perfectly, achieving 100% accuracy for technical instructions.
