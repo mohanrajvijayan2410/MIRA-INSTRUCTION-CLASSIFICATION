@@ -30,10 +30,10 @@ Two models were trained:
 
 ## 📈 **Results**
 ### Accuracy Table
-|                | **TNSB Data** | **NCERT Data** | **Pixel_help Data** |
-|----------------|---------------|----------------|---------------------|
-| **Binary**     | 70.8%         | 68.2%          | 100%                |
-| **Multi-Class**| 99%           | 69%            | 98%                 |
+|                |** WikiHow**| **TNSB Data** | **NCERT Data** | **Pixel_help Data** |
+|----------------|------------|---------------|----------------|---------------------|
+| **Binary**     |     99%    |      99%      |      98%       |        100%         |
+| **Multi-Class**|     92%    |      99%      |      98%       |        98%          |
 
 ### Training Graphs
 ![binary graph](https://github.com/user-attachments/assets/89962a7a-9357-4253-b55c-35c5e1a54688)
