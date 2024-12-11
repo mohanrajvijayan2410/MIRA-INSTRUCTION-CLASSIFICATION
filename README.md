@@ -1,4 +1,4 @@
-# 🧠 **BERT Instruction Classification**
+# 🧠 **Instruction Classification**
 
 ## 📜 **Project Overview**
 This project involves training and deploying a BERT-based model to classify instructions into predefined categories. The system uses a Flask-based frontend to allow users to input new instructions and get real-time classifications.
