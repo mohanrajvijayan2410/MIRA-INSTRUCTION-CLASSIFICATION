@@ -114,12 +114,5 @@ Two models were trained:
 4. **Access the application**:
    Open `http://127.0.0.1:5000` in your browser.
 
----
 
-## 🔮 **Future Enhancements**
-- **Enhanced Dataset**: Expand the dataset to include diverse instruction types.
-- **Mobile-Friendly UI**: Optimize the frontend for mobile devices.
-- **Advanced Visualization**: Add graphs and analytics to visualize model performance trends.
-
----
 
