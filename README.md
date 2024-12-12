@@ -10,6 +10,10 @@ This project involves training and deploying a BERT-based model to classify inst
   - **TNSB Data**: Includes practical, step-based instructions.
   - **Pixel_help Data**: Comprises technical instructions for device usage.
 
+### Product Screenshot
+![image](https://github.com/user-attachments/assets/45358c0e-b98e-4829-8c19-756135a68713)
+
+
 ### Dataset Screenshot
 ![image](https://github.com/user-attachments/assets/4d6699fc-fb3f-4346-83ae-baf21cbbd7a5)
 
@@ -47,6 +51,7 @@ Two models were trained:
 ![pixel binary](https://github.com/user-attachments/assets/068a4858-950b-48a4-a68a-0b2d21918a1e)
 
 - **NCERT Data**: The binary model scored 99.2% on academic-style instructions.
+  
 ![pixel binary](https://github.com/user-attachments/assets/068a4858-950b-48a4-a68a-0b2d21918a1e)
 
 
@@ -58,10 +63,15 @@ Two models were trained:
   ![tnsb multti](https://github.com/user-attachments/assets/ad88fabb-fbd1-4ff2-820d-17e24224c018)
 
 - **NCERT Data**: It achieved 98% accuracy for academic-style instructions.
+
 ![pixel multi](https://github.com/user-attachments/assets/ae8a4e39-2e15-4c07-80d3-da312ffbf868)
 
 - **Pixel_help Data**: The model performed excellently with 98% accuracy in technical instruction categorization.
 ![pixel multi](https://github.com/user-attachments/assets/ae8a4e39-2e15-4c07-80d3-da312ffbf868)
+
+## Sample Video
+https://github.com/user-attachments/assets/064c88da-85d5-4a83-a753-2f7c34b59975
+
 
 
 ---
