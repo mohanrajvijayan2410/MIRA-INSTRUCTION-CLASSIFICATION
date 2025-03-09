@@ -1,7 +1,17 @@
-# 🧠 **Instruction Classification**
+![image](https://github.com/user-attachments/assets/1d095280-7329-4076-b8f2-ba9b250db9f6)# 🧠 **Instruction Classification**
 
 ## 📜 **Project Overview**
-This project involves training and deploying a BERT-based model to classify instructions into predefined categories. The system uses a Flask-based frontend to allow users to input new instructions and get real-time classifications.
+This project involves training and deploying a BERT-based model to classify following instructions types into predefined categories. The system uses a Flask-based front end to allow users to input new instructions and get real-time classifications.
+Simple instruction
+Instruction with Sequence
+Instruction with Options
+Mandatory Instruction
+Instruction with Goal
+Instruction with Reason
+Negative Instruction
+Non Instruction
+![image](https://github.com/user-attachments/assets/f85f8ef9-720e-4452-b009-738a52a63bdb)
+
 
 ## 📊 **Dataset**
 - **Primary Dataset**: `wikihow.csv` containing instructions classified into 6 different categories.
