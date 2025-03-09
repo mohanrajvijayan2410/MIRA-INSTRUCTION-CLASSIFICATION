@@ -2,15 +2,15 @@
 
 ## 📜 **Project Overview**
 This project involves training and deploying a BERT-based model to classify following instructions types into predefined categories. The system uses a Flask-based front end to allow users to input new instructions and get real-time classifications.
-Simple instruction
-Instruction with Sequence
-Instruction with Options
-Mandatory Instruction
-Instruction with Goal
-Instruction with Reason
-Negative Instruction
-Non Instruction
-![image](https://github.com/user-attachments/assets/f85f8ef9-720e-4452-b009-738a52a63bdb)
+
+    Simple instruction
+    Instruction with Sequence
+    Instruction with Options
+    Mandatory Instruction
+    Instruction with Goal
+    Instruction with Reason
+    Negative Instruction
+    Non Instruction
 
 
 ## 📊 **Dataset**
